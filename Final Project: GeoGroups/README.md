@@ -1,5 +1,15 @@
 # Final Project: Self-Designed App
 
+## GeoGroups
+
+<p align="center" >
+<p align="center" >
+    <img alt="geo-groups" src="https://github.com/Ignatower/Harvard-CS50-React-Native/tree/main/Final%20Project:%20GeoGroups/geogroups.gif" width="260" height="510" />
+ </a>
+</p>
+</p>
+
+
 ## Objectives
 
     Implement a project with JavaScript and React Native from scratch.

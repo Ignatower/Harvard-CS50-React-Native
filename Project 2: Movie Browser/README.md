@@ -1,5 +1,14 @@
 # Project 2 - Movie Browser
 
+## Movie Browser
+
+<p align="center" >
+<p align="center" >
+    <img alt="geo-groups" src="https://github.com/Ignatower/Harvard-CS50-React-Native/tree/main/Project%202:%20Movie%20Browser/movie-browser.gif" width="260" height="510" />
+ </a>
+</p>
+</p>
+
 For this project, you'll be implementing a movie browser. It will allow users to
 search for movies included in the [Open Movie Database](http://www.omdbapi.com/)
 and view additional information about any movies they select. Check out the
