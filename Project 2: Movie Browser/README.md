@@ -4,7 +4,7 @@
 
 <p align="center" >
 <p align="center" >
-    <img alt="geo-groups" src="https://github.com/Ignatower/Harvard-CS50-React-Native/tree/main/Project%202:%20Movie%20Browser/movie-browser.gif" width="260" height="510" />
+    <img alt="movie-browser" src="https://github.com/Ignatower/Harvard-CS50-React-Native/blob/main/Project%202%3A%20Movie%20Browser/movie-browser.gif" width="260" height="510" />
  </a>
 </p>
 </p>

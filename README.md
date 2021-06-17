@@ -6,7 +6,7 @@ These are some of the projects that I implemented taking the course (https://www
 
 <p align="center" >
 <p align="center" >
-    <img alt="geo-groups" src="https://github.com/Ignatower/Harvard-CS50-React-Native/tree/main/Final%20Project:%20GeoGroups/geogroups.gif" width="260" height="510" />
+    <img alt="geo-groups" src="https://github.com/Ignatower/Harvard-CS50-React-Native/blob/main/Final%20Project%3A%20GeoGroups/geogroups.gif" width="260" height="510" />
  </a>
 </p>
 </p>
